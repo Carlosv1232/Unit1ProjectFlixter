@@ -23,14 +23,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![](01_30_21_Progress.gif)
 
 ### Notes
-
 Describe any challenges encountered while building the app.
+- I experienced minimal challeneged while developing this app. Only one notable issued that I had encountered was when I was trying to use the YouTube Player, I ran into the error where the app would run, but when it came down to where the video is supposed to run, I got an error saying, "an error occurred while initializing the youtube player". I tried to look around for any typo errors, but then found the solution on slack when another student also ran into the problem. The solution was to just use API 29 for the emulator. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
